@@ -1,0 +1,23 @@
+DEFAULT_PATH: 
+shortcuts:
+  play:
+    name: 再生
+    bind: Alt-p
+  loop:
+    name: ループ
+    bind: Alt-l
+  stop:
+    name: 停止
+    bind: Alt-s
+  previous:
+    name: 前へ
+    bind: Alt-Up
+  next:
+    name: 次へ
+    bind: Alt-Down
+  edit:
+    name: 書き換え
+    bind: Control-Shift-S
+  reset:
+    name: リセット
+    bind: Control-Shift-R
